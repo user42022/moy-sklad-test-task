@@ -1,1 +1,3 @@
-export const App = () => <div></div>
+import { MainPage } from "./pages/main/main-page";
+
+export const App = () => <MainPage />
